@@ -5,7 +5,7 @@ async function didYouMean (query) {
   const url = 'https://www.google.com/search'
   const params = {
     q: query,
-    hl: 'en'
+    hl: 'pt-BR'
   }
 
   let response
